@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Continue a explica\u00e7ao com base na resposta anterior"
+  },
+  {
+    "role": "assistant",
+    "content": "Pe\u00e7o desculpas, mas n\u00e3o h\u00e1 resposta anterior para eu continuar explicando. Este \u00e9 o in\u00edcio da conversa. Por favor, inicie a conversa e irei ajudar a explicar qualquer coisa que voc\u00ea precise."
+  }
+]

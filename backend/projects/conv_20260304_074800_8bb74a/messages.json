@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "O que \u00e9 FastAPI?"
+  },
+  {
+    "role": "assistant",
+    "content": "Uma \u00f3tima pergunta!\n\nFastAPI \u00e9 uma biblioteca de desenvolvimento web Python que permite criar APIs rapidamente e eficientemente. Foi projetada para ser r\u00e1pida, escal\u00e1vel e f\u00e1cil de usar, tornando-a uma escolha popular entre desenvolvedores.\n\nFastAPI \u00e9 baseada em Python 3.7+ e utiliza o padr\u00e3o ASGI (Asynchronous Server Gateway Interface) para lidar com solicita\u00e7\u00f5es HTTP. Isso significa que ela pode lidar com solicita\u00e7\u00f5es simult\u00e2neas de forma eficiente, o que \u00e9 especialmente \u00fatil para APIs que precisam lidar com grandes quantidades de tr\u00e1fego.\n\nAlguns dos principais recursos de FastAPI incluem:\n\n1. **Desenvolvimento r\u00e1pido**: FastAPI \u00e9 projetada para ser r\u00e1pida e f\u00e1cil de usar, permitindo que os desenvolvedores criem APIs rapidamente.\n2. **Autentica\u00e7\u00e3o e autoriza\u00e7\u00e3o**: FastAPI inclui suporte \u00e0 autentica\u00e7\u00e3o e autoriza\u00e7\u00e3o built-in, tornando mais f\u00e1cil de gerenciar a acessibilidade das APIs.\n3. **Suporte a schema**: FastAPI suporta esquemas de dados, como JSON Schema, para ajudar a garantir que os dados sejam validados e tratados corretamente.\n4. **Suporte a ORM**: FastAPI inclui suporte a Object-Relational Mappers (ORMs), como SQLAlchemy e Django ORM, para facilitar o trabalho com bancos de dados.\n5. **Suporte a gRPC**: FastAPI suporta gRPC, um protocolo de comunica\u00e7\u00e3o de rede para APIs, o que permite que as APIs sejam chamadas de forma mais segura e eficiente.\n\nEm resumo, FastAPI \u00e9 uma biblioteca de desenvolvimento web Python que oferece uma forma r\u00e1pida e eficiente de criar APIs, com recursos para autentica\u00e7\u00e3o, autoriza\u00e7\u00e3o, schema e suporte a ORM e gRPC."
+  }
+]
